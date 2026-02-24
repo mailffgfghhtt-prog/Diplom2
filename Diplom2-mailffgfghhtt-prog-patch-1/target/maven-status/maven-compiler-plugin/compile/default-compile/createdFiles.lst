@@ -1,0 +1,12 @@
+site\nomoreparties\stellarburgers\steps\OrderSteps.class
+site\nomoreparties\stellarburgers\generators\UserGenerator.class
+site\nomoreparties\stellarburgers\model\GetIngredientsResponse.class
+site\nomoreparties\stellarburgers\steps\UserSteps.class
+site\nomoreparties\stellarburgers\model\Ingredient.class
+site\nomoreparties\stellarburgers\model\UserCredentials.class
+site\nomoreparties\stellarburgers\model\User.class
+site\nomoreparties\stellarburgers\clients\ApiClientUser.class
+site\nomoreparties\stellarburgers\model\CreateUserResponse.class
+site\nomoreparties\stellarburgers\clients\ApiClientOrder.class
+site\nomoreparties\stellarburgers\generators\IngredientGenerator.class
+site\nomoreparties\stellarburgers\model\Order.class
